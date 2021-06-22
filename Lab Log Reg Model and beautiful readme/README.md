@@ -1,7 +1,7 @@
 ## __BINARY CLASSIFICATION WITH LOGISTIC REGRESSION__
 
 
-**__Fresh introduction__**
+**__Brief introduction__**
 
 In this notebook we are trying to apply a Logistic Regression Model to a bank database, in order to classify the clients in A or B and predict if their loans are going to be good or bad for the bank benefit. 
 
@@ -16,6 +16,7 @@ We connect to SQL because our database is in there.
 Also, we develop the query to get the necessary data. Now we are ready to start working.
 
 ### __Exploring the data__
+=========================
 
 1. We have a look at:
 + The structure
