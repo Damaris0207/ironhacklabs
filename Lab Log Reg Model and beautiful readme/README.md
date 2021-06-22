@@ -15,7 +15,7 @@ __Connection to SQL__
 We connect to SQL because our database is in there.
 Also, we develop the query to get the necessary data. Now we are ready to start working.
 
-__Exploring the data__
+### __Exploring the data__
 
 1. We have a look at:
 + The structure
@@ -32,6 +32,6 @@ We also noticed that "Birth number" data is unreadable too, but in this case we 
 
 
 
-##### Cleaning and wrangling
+### Cleaning and wrangling
 
 jfldjfdk
