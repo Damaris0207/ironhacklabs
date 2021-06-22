@@ -16,7 +16,7 @@ We connect to SQL because our database is in there.
 Also, we develop the query to get the necessary data. Now we are ready to start working.
 
 ### __Exploring the data__
-=========================
+======
 
 1. We have a look at:
 + The structure
