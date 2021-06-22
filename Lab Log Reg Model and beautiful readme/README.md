@@ -42,12 +42,13 @@ We also noticed that "Birth number" data is unreadable too so we tried to extrac
 
 
 
-### Applying the model
+### Applying the model and finding a result
 
 + We apply the Logistic Regression formula to the X and y.
 + Then generate the probability that a loan is A or B. We obtained in most of them 80-86% that is not B, and 11-19% that is B. 
-+ Finally evaluate the accuracy of the model. The final score is 0.78
-  This result suggest a high accuracy.
++ Finally evaluate the accuracy of the model. The final score is 0.78 which suggest a high accuracy.
   
 
 
+### Visualising accuracy
+We've plotted the ROC curve and made the Confusion Matrix to visualize the accuracy of the model, and we really found out that the model is not as accurate as it seems in the final score. We didn't have the necessary historical data in the database to truly respond to the main question and afirm how likely it is to predict the goodness of the loans. There's a lack of information and data imbalance about the negatives.
