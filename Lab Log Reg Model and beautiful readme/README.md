@@ -1,9 +1,7 @@
 ## __BINARY CLASSIFICATION WITH LOGISTIC REGRESSION__
 
 
-**__Brief introduction__**
-
-In this notebook we are trying to apply a Logistic Regression Model to a bank database, in order to classify the clients in A or B and predict if their loans are going to be good or bad for the bank benefit. 
+**__Brief introduction__*: In this notebook we are trying to apply a Logistic Regression Model to a bank database, in order to classify the clients in A or B and predict if their loans are going to be good or bad for the bank benefit. 
 
 
 __Importing libraries__
@@ -50,5 +48,5 @@ We also noticed that "Birth number" data is unreadable too so we tried to extrac
   
 
 
-### Visualising accuracy
+### Visualising accuracy and Final Conclusion
 We've plotted the ROC curve and made the Confusion Matrix to visualize the accuracy of the model, and we really found out that the model is not as accurate as it seems in the final score. We didn't have the necessary historical data in the database to truly respond to the main question and afirm how likely it is to predict the goodness of the loans. There's a lack of information and data imbalance about the negatives.
